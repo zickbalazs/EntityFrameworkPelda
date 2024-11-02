@@ -1,0 +1,38 @@
+{
+  "Users": [
+    {
+      "Username": "jani1",
+      "Email": "jani1@mail.com"
+    },
+    {
+      "Username": "jani2",
+      "Email": "jani2@mail.com"
+    },
+    {
+      "Username": "jani3",
+      "Email": "jani3@mail.com"
+    },
+    {
+      "Username": "jani4",
+      "Email": "jani4@mail.com"
+    },
+    {
+      "Username": "jani5",
+      "Email": "jani5@mail.com"
+    }
+  ],
+  "Posts": [
+    {
+      "Title": "Lorem",
+      "Content": "lorem ipsum xd",
+      "UserId": 1,
+      "BlogId": 1
+    }
+  ],
+  "Blogs": [
+    {
+      "Name": "Default"
+    }
+  ]
+
+}
